@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Atom Visualizer: A Python Simulation of Electron Configuration
 
 #### Video Demo:  <URL HERE>
@@ -42,3 +43,7 @@ This project, **Atom Visualizer**, is an interactive Python program that simulat
 
 - **`README.md`**  
   The file you're reading now – a detailed documentation of the project.
+=======
+# bohr-atom-visualizer
+A Python-based interactive atom visualizer that simulates electron configurations with pygame.
+>>>>>>> 0b4934a2b791f093f460451a1d69d011e1a47a7a
